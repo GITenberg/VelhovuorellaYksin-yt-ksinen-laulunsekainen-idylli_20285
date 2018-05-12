@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '9206'
     url: http://www.gutenberg.org/2009/agents/9206
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20285#VelhovuorellaYksin-yt-ksinen-laulunsekainen-idylli
 gutenberg_issued: '2007-01-04'
 gutenberg_type: Text
 identifiers:
