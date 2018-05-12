@@ -1,0 +1,35 @@
+_repo: VelhovuorellaYksin-yt-ksinen-laulunsekainen-idylli_20285
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sala, Niilo
+    birthdate: 1856
+    deathdate: 1892
+    gutenberg_agent_id: '9207'
+    url: http://www.gutenberg.org/2009/agents/9207
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bögh, Erik
+    birthdate: 1822
+    deathdate: 1899
+    gutenberg_agent_id: '9206'
+    url: http://www.gutenberg.org/2009/agents/9206
+description: ''
+gutenberg_issued: '2007-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20285'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Drama'
+title: 'Velhovuorella
+
+  Yksinäytöksinen laulunsekainen idylli'
+url: http://www.gutenberg.org/ebooks/20285
